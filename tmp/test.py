@@ -1,0 +1,12 @@
+#coding=gbk
+#filename:A_1.py
+
+'''
+Created on 2014Äê11ÔÂ24ÈÕ
+
+@author: jiangxin
+
+'''
+import random
+
+print "hello"
