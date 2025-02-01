@@ -1,0 +1,8 @@
+#coding=gbk
+'''
+Created on 2014Äê7ÔÂ15ÈÕ
+
+@author: jiangxin
+'''
+import shutil
+shutil.copy('./test_D_1_source.txt', './test_D_1_result.txt')
